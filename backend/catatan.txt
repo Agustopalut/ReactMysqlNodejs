@@ -1,0 +1,4 @@
+folder config,berguna untuk membuat configurasi connected ke mysql
+folder models,berguna untuk membuat table.
+folder controller,berguna untuk membuat funtion untuk query mysq
+folder router,berguna untuk endpoint rest api nya
